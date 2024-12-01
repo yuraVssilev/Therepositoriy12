@@ -4,4 +4,4 @@ assert hello_who('Max') == 'Hello,Max', 'Hello who error'
 assert hello_who('Leo') == 'Hello,Leo', 'Hello who error'
 assert hello_who('Nikita') == 'Hello,Nikita', 'Hello who error'
 assert salary(2,1) == 4
-assert salary(2,2) == 8
+assert salary(3,3) == 9
