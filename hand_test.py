@@ -14,4 +14,4 @@ if hello_who('Leo') != 'Hello,Leo':
 else:
     print('Amazing')
 if salary (2,10) != 20:
-    print('Error')
+    print('Errr')
